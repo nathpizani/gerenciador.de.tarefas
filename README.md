@@ -10,11 +10,11 @@ Desenvolver um script simples para gerenciar tarefas, permitindo adicionar, list
 3. Remover tarefas concluídas.
 
 ## Cronograma
--  Configuração do repositório e README.md: **1º dia**
--  Implementação da funcionalidade de adicionar tarefas: **2º dia**
--  Implementação da funcionalidade de listar tarefas: **3º dia**
--  Implementação da funcionalidade de remover tarefas: **4º dia**
--  Testes e documentação final: **5º dia**
+-  Configuração do repositório e README.md:
+-  Implementação da funcionalidade de adicionar tarefas:
+-  Implementação da funcionalidade de listar tarefas: 
+-  Implementação da funcionalidade de remover tarefas:
+-  Testes e documentação final: 
 
 
 
