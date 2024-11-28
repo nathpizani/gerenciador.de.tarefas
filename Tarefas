@@ -1,3 +1,6 @@
-def adicionar_tarefa(tarefa):
-    tarefas.append(tarefa)
-    print(f"Tarefa '{tarefa}' adicionada com sucesso!")
+def remover_tarefa(indice):
+    try:
+        tarefa_removida = tarefas.pop(indice - 1)
+        print(f"Tarefa '{tarefa_removida}' removida com sucesso!")
+    except IndexError:
+        print("Índice inválido!")
