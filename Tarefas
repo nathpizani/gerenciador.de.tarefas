@@ -1,3 +1,7 @@
-def adicionar_tarefa(tarefa):
-    tarefas.append(tarefa)
-    print(f"Tarefa '{tarefa}' adicionada com sucesso!")
+def listar_tarefas():
+    if not tarefas:
+        print("Nenhuma tarefa pendente.")
+    else:
+        print("Tarefas pendentes:")
+        for i, tarefa in enumerate(tarefas, start=1):
+            print(f"{i}. {tarefa}")
