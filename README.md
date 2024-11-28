@@ -18,7 +18,8 @@ Desenvolver um script simples para gerenciar tarefas, permitindo adicionar, list
 
 
 
-##CÓDIGO DESENVOLVIDO:
+## Código desenvolvido
+## Parte de desenvolvimento:
 tarefas = []
 
 def adicionar_tarefa(tarefa):
@@ -41,6 +42,7 @@ def remover_tarefa(indice):
         print("Índice inválido!")
 
 # Menu interativo
+## Interação com o usuário:
 tarefas = []
 
 def adicionar_tarefa(tarefa):
